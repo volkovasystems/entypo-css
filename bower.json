@@ -1,0 +1,23 @@
+{
+  "name": "entypo-css",
+  "version": "1.0.0",
+  "authors": [
+    "Richeve S. Bebedor <volkovasystems@gmail.com>"
+  ],
+  "description": "Entypo css binding from my gist, entypo.css forked from pnull/entypo.css",
+  "main": "entypo.css",
+  "keywords": [
+    "entypo",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/volkovasystems/entypo-css",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
